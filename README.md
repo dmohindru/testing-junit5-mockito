@@ -4,6 +4,12 @@ All source code examples in the repository are for my [Online Course - Testing S
 
 This source code repository contains JUnit 5 and Mockito test examples with Maven.
 
+## Description
+This repository contains following code example
+* Usage of Mockito library
+* An advanced usage of JUnit 5
+* Setting up maven dependencies for JUnit 5 and Mockito
+
 ## Setup
 ### Requirements
 * Should use Java 11 or higher. Previous versions of Java are un-tested.
